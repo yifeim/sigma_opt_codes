@@ -1,0 +1,12 @@
+Step 1: run startup.m to add dependencies
+Step 2: run demo/small_20plot.m to see an interesting toy example.
+Step 3: run demo/demo_digits_sample.m to see the most sophisticated usage 
+which include taking a subsample, building a knn graph, and running all
+active learning strategies for 2 repetitions (EER has been commented out). 
+Step 4: modify demo_digits_sample.m to create your own problem.
+
+Also included:
+data/ some other graphs I used. Their sources are detailed in the paper.
+
+Contact: 
+Yifei Ma. yifeim@cs.cmu.edu
