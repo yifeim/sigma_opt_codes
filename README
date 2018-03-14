@@ -3,7 +3,10 @@ Step 2: run demo/small_20plot.m to see an interesting toy example.
 Step 3: run demo/demo_digits_sample.m to see the most sophisticated usage 
 which include taking a subsample, building a knn graph, and running all
 active learning strategies for 2 repetitions (EER has been commented out). 
-Step 4: modify demo_digits_sample.m to create your own problem.
+Step 4: modify demo_digits_sample.m to create your own problem. (ref 
+  https://github.com/yifeim/sigma_opt_codes/blob/0b62ff1943e56def3f8012ba0574853e16803c46/demo/small_20plot.m#L13
+  https://github.com/yifeim/sigma_opt_codes/blob/0b62ff1943e56def3f8012ba0574853e16803c46/demo/demo_digits_sample.m#L2
+)
 
 Also included:
 data/ some other graphs I used. Their sources are detailed in the paper.
